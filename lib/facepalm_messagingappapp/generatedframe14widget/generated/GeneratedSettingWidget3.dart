@@ -1,0 +1,431 @@
+import 'package:flutter/material.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedBackgroundWidget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle22Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle14Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle19Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle3Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle21Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle25Widget.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle17Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle26Widget.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedPolygon1Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle16Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle33Widget.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedEditWidget17.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle30Widget.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedEditWidget19.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedTIDAKWidget.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedLogoutAkunWidget4.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle12Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedEditWidget15.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle15Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle10Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedNamaAliefDiazRazanWidodoWidget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle31Widget.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle23Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedLogoutWidget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedLogoutAkunWidget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle24Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedEditWidget16.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedEllipse2Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle1Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle20Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedHapusWidget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedPasswordWidget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedTanggalLahir01012001Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedYAWidget.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedRectangle13Widget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedEmailadrwgmailcomWidget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedHapusAkunWidget3.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedUsernameadrw123Widget2.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/GeneratedEditWidget18.dart';
+import 'package:flutterapp/facepalm_messagingappapp/generatedframe14widget/generated/Generated5445440422_backarrowicontransparentpngclipartfreedownlo3.dart';
+
+/* Group Setting
+    Autogenerated by FlutLab FTF Generator
+  */
+class GeneratedSettingWidget3 extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: 411.0,
+      height: 823.0,
+      child: Stack(
+          fit: StackFit.expand,
+          alignment: Alignment.center,
+          overflow: Overflow.visible,
+          children: [
+            Positioned(
+              left: 0.0,
+              top: 0.0,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 822.0060424804688,
+              child: GeneratedBackgroundWidget3(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 65.91576385498047,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 700.2013549804688,
+              child: GeneratedRectangle1Widget3(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 198.64251708984375,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 71.78079986572266,
+              child: GeneratedRectangle3Widget3(),
+            ),
+            Positioned(
+              left: 5.821533203125,
+              top: 151.24009704589844,
+              right: null,
+              bottom: null,
+              width: 357.1133117675781,
+              height: 27.732738494873047,
+              child: GeneratedNamaAliefDiazRazanWidodoWidget3(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 274.4863586425781,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 71.78079986572266,
+              child: GeneratedRectangle13Widget3(),
+            ),
+            Positioned(
+              left: 5.821533203125,
+              top: 227.08396911621094,
+              right: null,
+              bottom: null,
+              width: 357.1133117675781,
+              height: 27.732738494873047,
+              child: GeneratedUsernameadrw123Widget2(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 350.3302307128906,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 71.78079986572266,
+              child: GeneratedRectangle14Widget3(),
+            ),
+            Positioned(
+              left: 5.821533203125,
+              top: 302.9278259277344,
+              right: null,
+              bottom: null,
+              width: 357.1133117675781,
+              height: 27.732738494873047,
+              child: GeneratedEmailadrwgmailcomWidget3(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 426.1741027832031,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 71.78079986572266,
+              child: GeneratedRectangle15Widget3(),
+            ),
+            Positioned(
+              left: 5.821533203125,
+              top: 378.77166748046875,
+              right: null,
+              bottom: null,
+              width: 357.1133117675781,
+              height: 27.732738494873047,
+              child: GeneratedPasswordWidget3(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 503.3722839355469,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 71.78079986572266,
+              child: GeneratedRectangle16Widget3(),
+            ),
+            Positioned(
+              left: 5.821533203125,
+              top: 455.9698791503906,
+              right: null,
+              bottom: null,
+              width: 357.1133117675781,
+              height: 27.732738494873047,
+              child: GeneratedTanggalLahir01012001Widget3(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 580.5704956054688,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 71.78079986572266,
+              child: GeneratedRectangle17Widget3(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 657.78076171875,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 71.78079986572266,
+              child: GeneratedRectangle25Widget(),
+            ),
+            Positioned(
+              left: 5.821533203125,
+              top: 533.1681518554688,
+              right: null,
+              bottom: null,
+              width: 357.1133117675781,
+              height: 27.732738494873047,
+              child: GeneratedHapusAkunWidget3(),
+            ),
+            Positioned(
+              left: 5.8212890625,
+              top: 610.37841796875,
+              right: null,
+              bottom: null,
+              width: 357.1133117675781,
+              height: 27.732738494873047,
+              child: GeneratedLogoutAkunWidget3(),
+            ),
+            Positioned(
+              left: 0.0,
+              top: 766.1171264648438,
+              right: null,
+              bottom: null,
+              width: 411.0,
+              height: 56.882896423339844,
+              child: GeneratedRectangle10Widget3(),
+            ),
+            Positioned(
+              left: 74.515625,
+              top: 809.4564819335938,
+              right: null,
+              bottom: null,
+              width: 25.614730834960938,
+              height: 29.795801162719727,
+              child: GeneratedRectangle12Widget3(),
+            ),
+            Positioned(
+              left: 193.2747802734375,
+              top: 779.66064453125,
+              right: null,
+              bottom: null,
+              width: 25.614730834960938,
+              height: 29.795801162719727,
+              child: GeneratedEllipse2Widget3(),
+            ),
+            Positioned(
+              left: 312.033935546875,
+              top: 809.4564819335938,
+              right: null,
+              bottom: null,
+              width: 29.795801162719727,
+              height: 22.540966033935547,
+              child: GeneratedPolygon1Widget3(),
+            ),
+            Positioned(
+              left: 341.1416015625,
+              top: 145.8226776123047,
+              right: null,
+              bottom: null,
+              width: 61.708213806152344,
+              height: 35.213218688964844,
+              child: GeneratedRectangle19Widget3(),
+            ),
+            Positioned(
+              left: 357.44189453125,
+              top: 151.24009704589844,
+              right: null,
+              bottom: null,
+              width: 35.271955490112305,
+              height: 30.732738494873047,
+              child: GeneratedEditWidget15(),
+            ),
+            Positioned(
+              left: 341.1416015625,
+              top: 371.99993896484375,
+              right: null,
+              bottom: null,
+              width: 61.708213806152344,
+              height: 35.213218688964844,
+              child: GeneratedRectangle20Widget3(),
+            ),
+            Positioned(
+              left: 357.44189453125,
+              top: 377.4173278808594,
+              right: null,
+              bottom: null,
+              width: 35.271955490112305,
+              height: 30.732738494873047,
+              child: GeneratedEditWidget16(),
+            ),
+            Positioned(
+              left: 341.1416015625,
+              top: 221.66653442382812,
+              right: null,
+              bottom: null,
+              width: 61.708213806152344,
+              height: 35.213218688964844,
+              child: GeneratedRectangle21Widget3(),
+            ),
+            Positioned(
+              left: 357.44189453125,
+              top: 227.08396911621094,
+              right: null,
+              bottom: null,
+              width: 35.271955490112305,
+              height: 30.732738494873047,
+              child: GeneratedEditWidget17(),
+            ),
+            Positioned(
+              left: 341.1416015625,
+              top: 293.44732666015625,
+              right: null,
+              bottom: null,
+              width: 61.708213806152344,
+              height: 35.213218688964844,
+              child: GeneratedRectangle22Widget3(),
+            ),
+            Positioned(
+              left: 357.44189453125,
+              top: 298.86474609375,
+              right: null,
+              bottom: null,
+              width: 35.271955490112305,
+              height: 30.732738494873047,
+              child: GeneratedEditWidget18(),
+            ),
+            Positioned(
+              left: 321.348388671875,
+              top: 526.3963623046875,
+              right: null,
+              bottom: null,
+              width: 81.50141906738281,
+              height: 35.213218688964844,
+              child: GeneratedRectangle23Widget3(),
+            ),
+            Positioned(
+              left: 321.3486328125,
+              top: 603.606689453125,
+              right: null,
+              bottom: null,
+              width: 81.50141906738281,
+              height: 35.213218688964844,
+              child: GeneratedRectangle26Widget(),
+            ),
+            Positioned(
+              left: 339.977294921875,
+              top: 531.813720703125,
+              right: null,
+              bottom: null,
+              width: 55.065155029296875,
+              height: 30.732738494873047,
+              child: GeneratedHapusWidget3(),
+            ),
+            Positioned(
+              left: 339.9775390625,
+              top: 609.0240478515625,
+              right: null,
+              bottom: null,
+              width: 55.065155029296875,
+              height: 30.732738494873047,
+              child: GeneratedLogoutWidget3(),
+            ),
+            Positioned(
+              left: 341.1416015625,
+              top: 447.84375,
+              right: null,
+              bottom: null,
+              width: 61.708213806152344,
+              height: 35.213218688964844,
+              child: GeneratedRectangle24Widget3(),
+            ),
+            Positioned(
+              left: 14.0,
+              top: 18.885263442993164,
+              right: null,
+              bottom: null,
+              width: 38.095237731933594,
+              height: 29.81884002685547,
+              child:
+                  Generated5445440422_backarrowicontransparentpngclipartfreedownlo3(),
+            ),
+            Positioned(
+              left: 357.44189453125,
+              top: 453.2611999511719,
+              right: null,
+              bottom: null,
+              width: 35.271955490112305,
+              height: 30.732738494873047,
+              child: GeneratedEditWidget19(),
+            ),
+            Positioned(
+              left: 23.0,
+              top: 265.0,
+              right: null,
+              bottom: null,
+              width: 367.0,
+              height: 253.0,
+              child: GeneratedRectangle30Widget(),
+            ),
+            Positioned(
+              left: 37.0,
+              top: 327.0,
+              right: null,
+              bottom: null,
+              width: 341.0,
+              height: 103.0,
+              child: GeneratedLogoutAkunWidget4(),
+            ),
+            Positioned(
+              left: 67.0,
+              top: 467.514892578125,
+              right: null,
+              bottom: null,
+              width: 109.44475555419922,
+              height: 39.51490020751953,
+              child: GeneratedRectangle31Widget(),
+            ),
+            Positioned(
+              left: 232.0,
+              top: 467.514892578125,
+              right: null,
+              bottom: null,
+              width: 109.44475555419922,
+              height: 39.51490020751953,
+              child: GeneratedRectangle33Widget(),
+            ),
+            Positioned(
+              left: 107.0,
+              top: 435.0,
+              right: null,
+              bottom: null,
+              width: 36.0,
+              height: 30.0,
+              child: GeneratedYAWidget(),
+            ),
+            Positioned(
+              left: 257.0,
+              top: 435.0,
+              right: null,
+              bottom: null,
+              width: 69.0,
+              height: 30.0,
+              child: GeneratedTIDAKWidget(),
+            )
+          ]),
+    );
+  }
+}
